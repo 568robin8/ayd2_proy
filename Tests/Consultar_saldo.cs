@@ -10,7 +10,7 @@ namespace Tests
         [TestMethod]
         public void TestConsultar_saldo()
         {
-            double valor = f.consultar_saldo("usuario");
+            double valor = f.consultar_saldo("usuarios");
             Assert.AreNotEqual(valor, -1);
         }
     }
