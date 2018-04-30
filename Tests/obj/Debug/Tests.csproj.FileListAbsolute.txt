@@ -1,0 +1,7 @@
+C:\Users\ROBIN SALVATIERRA\documents\visual studio 2015\Projects\AYD_P\Tests\bin\Debug\Tests.dll
+C:\Users\ROBIN SALVATIERRA\documents\visual studio 2015\Projects\AYD_P\Tests\bin\Debug\Tests.pdb
+C:\Users\ROBIN SALVATIERRA\documents\visual studio 2015\Projects\AYD_P\Tests\bin\Debug\AYD_P.exe
+C:\Users\ROBIN SALVATIERRA\documents\visual studio 2015\Projects\AYD_P\Tests\bin\Debug\AYD_P.pdb
+C:\Users\ROBIN SALVATIERRA\documents\visual studio 2015\Projects\AYD_P\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\ROBIN SALVATIERRA\documents\visual studio 2015\Projects\AYD_P\Tests\obj\Debug\Tests.dll
+C:\Users\ROBIN SALVATIERRA\documents\visual studio 2015\Projects\AYD_P\Tests\obj\Debug\Tests.pdb
